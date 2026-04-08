@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "sebastian.blanchet.login.app-mergeDebugResources-42:/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SOPORTE\\.gradle\\caches\\9.3.1\\transforms\\127acd94735f9cdcb62ab1e086f9df60\\workspace\\transformed\\credentials-play-services-auth-1.2.0-rc01\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "543"
+                    }
+                }
+            ]
+        }
+    ]
+}
